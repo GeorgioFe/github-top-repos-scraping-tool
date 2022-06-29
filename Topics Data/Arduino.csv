@@ -1,11 +1,11 @@
 username,repo name,stars,repo URL
-arendst,Tasmota,17800,https://github.com/arendst/Tasmota
+arendst,Tasmota,17900,https://github.com/arendst/Tasmota
 MarlinFirmware,Marlin,13400,https://github.com/MarlinFirmware/Marlin
 arduino,Arduino,13000,https://github.com/arduino/Arduino
 rwaldron,johnny-five,12700,https://github.com/rwaldron/johnny-five
 tinygo-org,tinygo,11000,https://github.com/tinygo-org/tinygo
 SpacehuhnTech,esp8266_deauther,10100,https://github.com/SpacehuhnTech/esp8266_deauther
-espressif,arduino-esp32,8800,https://github.com/espressif/arduino-esp32
+espressif,arduino-esp32,8900,https://github.com/espressif/arduino-esp32
 hybridgroup,gobot,7800,https://github.com/hybridgroup/gobot
 gurugio,lowlevelprogramming-university,7600,https://github.com/gurugio/lowlevelprogramming-university
 platformio,platformio-core,6000,https://github.com/platformio/platformio-core
@@ -16,7 +16,7 @@ Arduino-IRremote,Arduino-IRremote,3700,https://github.com/Arduino-IRremote/Ardui
 arduino,arduino-cli,3500,https://github.com/arduino/arduino-cli
 blynkkk,blynk-library,3400,https://github.com/blynkkk/blynk-library
 NectarJS,nectarjs,3300,https://github.com/NectarJS/nectarjs
-olikraus,u8g2,3100,https://github.com/olikraus/u8g2
+olikraus,u8g2,3200,https://github.com/olikraus/u8g2
 ClemensElflein,OpenMower,3100,https://github.com/ClemensElflein/OpenMower
 Serial-Studio,Serial-Studio,2700,https://github.com/Serial-Studio/Serial-Studio
 1technophile,OpenMQTTGateway,2600,https://github.com/1technophile/OpenMQTTGateway

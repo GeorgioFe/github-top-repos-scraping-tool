@@ -4,7 +4,7 @@ discordjs,discord.js,19700,https://github.com/discordjs/discord.js
 python-telegram-bot,python-telegram-bot,19000,https://github.com/python-telegram-bot/python-telegram-bot
 hubotio,hubot,16200,https://github.com/hubotio/hubot
 RasaHQ,rasa,14500,https://github.com/RasaHQ/rasa
-InstaPy,InstaPy,14300,https://github.com/InstaPy/InstaPy
+InstaPy,InstaPy,14400,https://github.com/InstaPy/InstaPy
 wechaty,wechaty,13000,https://github.com/wechaty/wechaty
 gunthercox,ChatterBot,12400,https://github.com/gunthercox/ChatterBot
 tgbot-collection,YYeTsBot,11400,https://github.com/tgbot-collection/YYeTsBot
@@ -14,10 +14,10 @@ botpress,botpress,9700,https://github.com/botpress/botpress
 sfyc23,EverydayWechat,9000,https://github.com/sfyc23/EverydayWechat
 leon-ai,leon,8800,https://github.com/leon-ai/leon
 microsoft,ailab,7100,https://github.com/microsoft/ailab
-pedroslopez,whatsapp-web.js,6900,https://github.com/pedroslopez/whatsapp-web.js
+pedroslopez,whatsapp-web.js,7000,https://github.com/pedroslopez/whatsapp-web.js
 EZFNDEV,EZFN-Lobbybot,6900,https://github.com/EZFNDEV/EZFN-Lobbybot
 microsoft,botframework-sdk,6800,https://github.com/microsoft/botframework-sdk
-yagop,node-telegram-bot-api,6200,https://github.com/yagop/node-telegram-bot-api
+yagop,node-telegram-bot-api,6300,https://github.com/yagop/node-telegram-bot-api
 maxbbraun,trump2cash,6100,https://github.com/maxbbraun/trump2cash
 telegraf,telegraf,5800,https://github.com/telegraf/telegraf
 deepmipt,DeepPavlov,5800,https://github.com/deepmipt/DeepPavlov
@@ -28,4 +28,4 @@ jef,streetmerchant,4800,https://github.com/jef/streetmerchant
 BotsAppOfficial,BotsApp,4400,https://github.com/BotsAppOfficial/BotsApp
 ohld,igbot,4200,https://github.com/ohld/igbot
 jesse-ai,jesse,4000,https://github.com/jesse-ai/jesse
-orkestral,venom,3900,https://github.com/orkestral/venom
+chrisleekr,binance-trading-bot,3900,https://github.com/chrisleekr/binance-trading-bot

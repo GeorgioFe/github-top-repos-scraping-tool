@@ -1,5 +1,5 @@
 username,repo name,stars,repo URL
-bregman-arie,devops-exercises,25900,https://github.com/bregman-arie/devops-exercises
+bregman-arie,devops-exercises,26600,https://github.com/bregman-arie/devops-exercises
 microsoft,recommenders,13500,https://github.com/microsoft/recommenders
 ramitsurana,awesome-kubernetes,12900,https://github.com/ramitsurana/awesome-kubernetes
 pulumi,pulumi,12800,https://github.com/pulumi/pulumi
@@ -16,7 +16,7 @@ thangchung,clean-code-dotnet,5100,https://github.com/thangchung/clean-code-dotne
 aquasecurity,tfsec,4700,https://github.com/aquasecurity/tfsec
 budtmo,docker-android,4600,https://github.com/budtmo/docker-android
 nccgroup,ScoutSuite,4400,https://github.com/nccgroup/ScoutSuite
-bridgecrewio,checkov,4300,https://github.com/bridgecrewio/checkov
+bridgecrewio,checkov,4400,https://github.com/bridgecrewio/checkov
 cloud-custodian,cloud-custodian,4200,https://github.com/cloud-custodian/cloud-custodian
 Azure,autorest,3800,https://github.com/Azure/autorest
 Azure,azure-sdk-for-net,3800,https://github.com/Azure/azure-sdk-for-net
@@ -24,7 +24,7 @@ simov,grant,3600,https://github.com/simov/grant
 hashicorp,terraform-provider-azurerm,3400,https://github.com/hashicorp/terraform-provider-azurerm
 microsoft,SynapseML,3300,https://github.com/microsoft/SynapseML
 Azure,MachineLearningNotebooks,3300,https://github.com/Azure/MachineLearningNotebooks
-Azure,azure-powershell,3100,https://github.com/Azure/azure-powershell
+Azure,azure-powershell,3200,https://github.com/Azure/azure-powershell
 Azure,azure-cli,3100,https://github.com/Azure/azure-cli
 sottlmarek,DevSecOps,3100,https://github.com/sottlmarek/DevSecOps
 Azure,azure-sdk-for-python,2900,https://github.com/Azure/azure-sdk-for-python

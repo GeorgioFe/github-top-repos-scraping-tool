@@ -1,9 +1,9 @@
 username,repo name,stars,repo URL
-vercel,next.js,88600,https://github.com/vercel/next.js
-rust-lang,rust,68000,https://github.com/rust-lang/rust
+vercel,next.js,88700,https://github.com/vercel/next.js
+rust-lang,rust,68200,https://github.com/rust-lang/rust
 webpack,webpack,61300,https://github.com/webpack/webpack
-sveltejs,svelte,59700,https://github.com/sveltejs/svelte
-gatsbyjs,gatsby,53100,https://github.com/gatsbyjs/gatsby
+sveltejs,svelte,59900,https://github.com/sveltejs/svelte
+gatsbyjs,gatsby,53200,https://github.com/gatsbyjs/gatsby
 JetBrains,kotlin,41900,https://github.com/JetBrains/kotlin
 babel,babel,41000,https://github.com/babel/babel
 parcel-bundler,parcel,40900,https://github.com/parcel-bundler/parcel
@@ -15,17 +15,17 @@ vercel,pkg,21400,https://github.com/vercel/pkg
 v8,v8,19700,https://github.com/v8/v8
 ziglang,zig,14300,https://github.com/ziglang/zig
 AssemblyScript,assemblyscript,14100,https://github.com/AssemblyScript/assemblyscript
-nim-lang,Nim,13000,https://github.com/nim-lang/Nim
-Konloch,bytecode-viewer,13000,https://github.com/Konloch/bytecode-viewer
+nim-lang,Nim,13100,https://github.com/nim-lang/Nim
+Konloch,bytecode-viewer,13100,https://github.com/Konloch/bytecode-viewer
 RustPython,RustPython,11600,https://github.com/RustPython/RustPython
 gopherjs,gopherjs,11200,https://github.com/gopherjs/gopherjs
 compiler-explorer,compiler-explorer,10900,https://github.com/compiler-explorer/compiler-explorer
-apache,tvm,8200,https://github.com/apache/tvm
+apache,tvm,8300,https://github.com/apache/tvm
 numba,numba,7600,https://github.com/numba/numba
 JetBrains,kotlin-native,7100,https://github.com/JetBrains/kotlin-native
 Nuitka,Nuitka,7000,https://github.com/Nuitka/Nuitka
 elm,compiler,6900,https://github.com/elm/compiler
-aalhour,awesome-compilers,6800,https://github.com/aalhour/awesome-compilers
+aalhour,awesome-compilers,6900,https://github.com/aalhour/awesome-compilers
 DoctorWkt,acwj,6600,https://github.com/DoctorWkt/acwj
 rescript-lang,rescript-compiler,5800,https://github.com/rescript-lang/rescript-compiler
 enso-org,enso,5500,https://github.com/enso-org/enso

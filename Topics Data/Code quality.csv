@@ -5,7 +5,7 @@ analysis-tools-dev,static-analysis,10000,https://github.com/analysis-tools-dev/s
 checkstyle,checkstyle,7100,https://github.com/checkstyle/checkstyle
 SonarSource,sonarqube,6900,https://github.com/SonarSource/sonarqube
 Kristories,awesome-guidelines,6700,https://github.com/Kristories/awesome-guidelines
-facebook,pyre-check,5900,https://github.com/facebook/pyre-check
+facebook,pyre-check,6000,https://github.com/facebook/pyre-check
 reviewdog,reviewdog,5200,https://github.com/reviewdog/reviewdog
 detekt,detekt,4600,https://github.com/detekt/detekt
 simplecov-ruby,simplecov,4500,https://github.com/simplecov-ruby/simplecov
@@ -24,8 +24,8 @@ Tencent,feflow,1200,https://github.com/Tencent/feflow
 Tencent,CodeAnalysis,1200,https://github.com/Tencent/CodeAnalysis
 urish,typewiz,1100,https://github.com/urish/typewiz
 jakzal,phpqa,1000,https://github.com/jakzal/phpqa
-imgbot,Imgbot,923,https://github.com/imgbot/Imgbot
+imgbot,Imgbot,924,https://github.com/imgbot/Imgbot
 joshuaclayton,unused,870,https://github.com/joshuaclayton/unused
-sourcery-ai,sourcery,864,https://github.com/sourcery-ai/sourcery
-SonarSource,SonarJS,824,https://github.com/SonarSource/SonarJS
+sourcery-ai,sourcery,866,https://github.com/sourcery-ai/sourcery
+SonarSource,SonarJS,825,https://github.com/SonarSource/SonarJS
 pdepend,pdepend,802,https://github.com/pdepend/pdepend

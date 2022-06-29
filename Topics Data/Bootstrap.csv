@@ -1,9 +1,9 @@
 username,repo name,stars,repo URL
 twbs,bootstrap,158000,https://github.com/twbs/bootstrap
 ColorlibHQ,AdminLTE,41100,https://github.com/ColorlibHQ/AdminLTE
-tabler,tabler,26100,https://github.com/tabler/tabler
+tabler,tabler,26200,https://github.com/tabler/tabler
 mdbootstrap,mdb-ui-kit,22400,https://github.com/mdbootstrap/mdb-ui-kit
-react-bootstrap,react-bootstrap,20800,https://github.com/react-bootstrap/react-bootstrap
+react-bootstrap,react-bootstrap,20900,https://github.com/react-bootstrap/react-bootstrap
 ColorlibHQ,gentelella,20600,https://github.com/ColorlibHQ/gentelella
 verekia,js-stack-from-scratch,19200,https://github.com/verekia/js-stack-from-scratch
 bootstrap-vue,bootstrap-vue,13900,https://github.com/bootstrap-vue/bootstrap-vue
@@ -16,7 +16,7 @@ Templarian,MaterialDesign,10200,https://github.com/Templarian/MaterialDesign
 snapappointments,bootstrap-select,9600,https://github.com/snapappointments/bootstrap-select
 mdbootstrap,material-design-for-bootstrap,9500,https://github.com/mdbootstrap/material-design-for-bootstrap
 StartBootstrap,startbootstrap-sb-admin-2,9200,https://github.com/StartBootstrap/startbootstrap-sb-admin-2
-ng-bootstrap,ng-bootstrap,7900,https://github.com/ng-bootstrap/ng-bootstrap
+ng-bootstrap,ng-bootstrap,8000,https://github.com/ng-bootstrap/ng-bootstrap
 BlackrockDigital,startbootstrap,7200,https://github.com/BlackrockDigital/startbootstrap
 olton,Metro-UI-CSS,6900,https://github.com/olton/Metro-UI-CSS
 twbs,icons,6200,https://github.com/twbs/icons
